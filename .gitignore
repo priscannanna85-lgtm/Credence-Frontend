@@ -2,8 +2,6 @@ node_modules
 dist
 *.local
 .DS_Store
-.env
-.env.*
 !.env.example
 coverage
 
@@ -14,3 +12,7 @@ storybook-static
 test-results
 playwright-report
 blob-report
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
